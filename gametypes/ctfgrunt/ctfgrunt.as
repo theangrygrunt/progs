@@ -952,7 +952,7 @@ void GT_SpawnGametype()
 
 void GT_InitGametype()
 {
-    gametype.title = "CTF++";
+    gametype.title = "Grunt's CTF";
     gametype.version = "0.1 BETA";
     gametype.author = "Warsow Development Team, modifications by theangrygrunt";
 
