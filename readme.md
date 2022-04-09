@@ -15,5 +15,7 @@ Upon taking the flag some buffs and debuffs will be applied:
   Normal armor rules still apply, and collected armor will not be regenerated
 
 Notes:
+Gamemode is called ctfgrunt in the game mode selection menu.
 
-Gamemode is called ctfgrunt in the game mode selection menu
+Credits:
+Files were originally created by Team Forbidden LLC. All assets belong to their respective owners and licenses.
