@@ -1,5 +1,3 @@
-Gamemode created by theangrygrunt, last updated on April 4, 2022
-
 This is my personal repo for proposed changes to CTF mode
 
 Changes:
