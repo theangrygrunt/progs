@@ -1075,7 +1075,7 @@ void GT_InitGametype()
     G_RegisterCommand( "gametype" );
 
     G_RegisterCallvote( "ctf_powerup_drop", "1 or 0", "bool", "Enables or disables the dropping of powerups at dying" );
-    G_RegisterCallvote( "ctf_flag_instant", "1 or 0", "bool", "Enables or disables instant flag captures and unlocks" );
+  //  G_RegisterCallvote( "ctf_flag_instant", "1 or 0", "bool", "Enables or disables instant flag captures and unlocks" ); // no longer needed
 
 
     G_Print( "Gametype '" + gametype.title + "' initialized\n" );
