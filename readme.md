@@ -7,10 +7,10 @@ CTF capture time is now instantaneous when you get within range (currently 30 wi
 Upon taking the flag some buffs and debuffs will be applied:
 1. Player movement will be capped to 530 units. This will prevent defraggers from chain-capping flags
 2. Player will receive a "shield" of 25 units of armor that will continuously regenerate to 25 units until one of the following happens:
-  2.1. Player is killed
-  2.2. Player drops the flag voluntarily
-  2.3. Player captures the flag
-  Normal armor rules still apply, and collected armor will not be regenerated
+  1.  Player is killed
+  2. Player drops the flag voluntarily
+  3. Player captures the flag
+3. Normal armor rules still apply, and collected armor will not be regenerated
 
 Notes:
 Gamemode is called ctfgrunt in the game mode selection menu.
